@@ -1,0 +1,5 @@
+{
+  "name": "AvantSwap",
+  "description": "A high-precision, glassmorphic cryptocurrency swap interface featuring real-time exchange rate simulation and token selection.",
+  "requestFramePermissions": []
+}
